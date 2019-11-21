@@ -1,2 +1,2 @@
 A Tower Defence Game created using the concepts of Graphical User Interfaces (GUIs) and object-
-oriented programming is Python.
+oriented programming in Python.
