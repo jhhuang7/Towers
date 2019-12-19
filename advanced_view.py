@@ -55,10 +55,7 @@ from tower import AbstractTower, MissileTower, EnergyTower, SimpleTower, \
 from enemy import AbstractEnemy
 from utilities import rotate_point
 
-__author__ = "Benjamin Martin"
-__copyright__ = "Copyright 2018, The University of Queensland"
-__license__ = "MIT"
-__version__ = "1.1.0"
+
 
 
 def sort_draw_methods(draw_methods):

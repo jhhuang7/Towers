@@ -20,8 +20,6 @@ logger.setLevel(logging.DEBUG)
 
 BACKGROUND_COLOUR = "#4a2f48"
 
-__author__ = "Juhua Huang (45309151)"
-__copyright__ = "The University of Queensland"
 
 class TowerGameApp(Stepper):
     """Top-level GUI application for a simple tower defence game"""

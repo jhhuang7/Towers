@@ -4,10 +4,7 @@ import tkinter as tk
 
 from advanced_view import TowerView, RangeView, EnemyView, ObstacleView
 
-__author__ = "Benjamin Martin and Brae Webb"
-__copyright__ = "Copyright 2018, The University of Queensland"
-__license__ = "MIT"
-__version__ = "1.1.0"
+
 
 
 class GameView(tk.Canvas):

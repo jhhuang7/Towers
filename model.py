@@ -12,10 +12,7 @@ from tower import AbstractTower
 from enemy import AbstractEnemy
 from path import Path
 
-__author__ = "Benjamin Martin and Brae Webb"
-__copyright__ = "Copyright 2018, The University of Queensland"
-__license__ = "MIT"
-__version__ = "1.1.0"
+
 
 CELL_SIZE = 60
 PIXEL_SIZE = (24, 12)

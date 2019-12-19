@@ -6,10 +6,7 @@ All enemies should inherit from AbstractEnemy (either directly or from one of it
 from core import Unit
 from utilities import rectangles_intersect, get_delta_through_centre
 
-__author__ = "Benjamin Martin and Brae Webb"
-__copyright__ = "Copyright 2018, The University of Queensland"
-__license__ = "MIT"
-__version__ = "1.1.0"
+
 
 
 class AbstractEnemy(Unit):

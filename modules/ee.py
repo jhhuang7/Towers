@@ -10,14 +10,7 @@ namespaces, wildcards and TTL.
 """
 
 
-__author__     = "Marcel Rieger"
-__copyright__  = "Copyright 2014, Marcel Rieger"
-__credits__    = ["Marcel Rieger"]
-__license__    = "MIT"
-__maintainer__ = "Marcel Rieger"
-__status__     = "Development"
-__version__    = "0.2.3"
-__all__        = ["EventEmitter"]
+
 
 
 # python imports

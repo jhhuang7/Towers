@@ -6,11 +6,7 @@ import itertools
 import bisect
 import random
 
-__author__ = "Benjamin Martin"
-__copyright__ = "Copyright 2017, The University of Queensland"
-__license__ = "MIT"
-__date__ = "26/09/2017"
-__version__ = "1.0.2"
+
 
 
 class WeightedSelector:

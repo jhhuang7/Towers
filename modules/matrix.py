@@ -3,11 +3,7 @@ Two-dimensional matrix data structure
 """
 import itertools
 
-__author__ = "Benjamin Martin"
-__copyright__ = "Copyright 2017, The University of Queensland"
-__license__ = "MIT"
-__date__ = "27/09/2017"
-__version__ = "1.1.3"
+
 
 # Change in position for all adjacent cells
 RADIAL_DELTAS = tuple(

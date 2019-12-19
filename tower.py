@@ -13,10 +13,7 @@ from range_ import AbstractRange, CircularRange, PlusRange, DonutRange
 from utilities import Countdown, euclidean_distance, rotate_toward, angle_between, polar_to_rectangular, \
     rectangles_intersect
 
-__author__ = "Benjamin Martin"
-__copyright__ = "Copyright 2018, The University of Queensland"
-__license__ = "MIT"
-__version__ = "1.1.0"
+
 
 
 class AbstractTower(Unit):

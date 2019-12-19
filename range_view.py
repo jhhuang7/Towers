@@ -26,10 +26,7 @@ import tkinter as tk
 
 import range_
 
-__author__ = "Benjamin Martin"
-__copyright__ = "Copyright 2018, The University of Queensland"
-__license__ = "MIT"
-__version__ = "1.0.0"
+
 
 
 class RangeView:

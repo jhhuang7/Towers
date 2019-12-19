@@ -7,10 +7,7 @@ import tkinter as tk
 from typing import Union, Tuple
 from inspect import getmembers, isfunction
 
-__author__ = "Benjamin Martin and Brae Webb"
-__copyright__ = "Copyright 2018, The University of Queensland"
-__license__ = "MIT"
-__version__ = "1.1.0"
+
 
 # pylint: disable=invalid-name
 Num_T = Union[int, float]

@@ -4,10 +4,7 @@ import json
 import tkinter as tk
 from tkinter import messagebox, Toplevel
 
-__author__ = "Benjamin Martin"
-__copyright__ = "Copyright 2018, The University of Queensland"
-__license__ = "MIT"
-__version__ = "1.1.0"
+
 
 DEFAULT_GAME = 'basic'
 
